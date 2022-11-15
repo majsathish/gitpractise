@@ -71,3 +71,4 @@
         </plugins>
     </build>
 </project>
+  <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
